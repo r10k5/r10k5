@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r10k5&layout=compact)](https://github.com/r10k5/github-readme-stats)
 <!--
 **r10k5/r10k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
