@@ -1,4 +1,7 @@
-### Hi there 👋
+### Привет, меня зовут Ксюша 👋
+### Я начинающий фронтенд-разработчик и по своместительству дизайнер. Буду рада поучаствовать в интересных проектах. акселераторах и хакатонах!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r10k5&layout=compact)](https://github.com/r10k5/github-readme-stats)
 <!--
 **r10k5/r10k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
